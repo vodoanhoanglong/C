@@ -1,9 +1,9 @@
-# C
+# C language
 
 
 ![C Logo](https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png)
-- Install VSCode or DevC
-- Try the code below
+- Install VSCode or DevC.
+- Try the code below.
 ```C
 #include <stdio.h>
 int main() 
