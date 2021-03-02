@@ -15,6 +15,6 @@ int main()
 
 | Contact | Information |
 |---------|-------------|
-| Email   | vodoanhoanglong10a9@gmai.com|
+| Email   | vodoanhoanglong10a9@gmail.com|
 | Instagram  | `vdhglg`|
 | Facebook  | https://www.facebook.com/hoanglong.vodoan/
